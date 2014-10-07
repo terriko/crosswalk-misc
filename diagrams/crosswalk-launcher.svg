@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="653.75"
+   height="343.75"
+   id="svg4252"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="crosswalk-launcher-v2.svg"
+   inkscape:export-filename="/home/terri/Pictures/crosswalk-launcher-v2.png"
+   inkscape:export-xdpi="100"
+   inkscape:export-ydpi="100">
+  <defs
+     id="defs4254" />
+  <sodipodi:namedview
+     inkscape:document-units="in"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4648618"
+     inkscape:cx="254.27636"
+     inkscape:cy="135.50611"
+     inkscape:current-layer="layer1"
+     id="namedview4256"
+     showgrid="true"
+     units="in"
+     inkscape:window-width="1698"
+     inkscape:window-height="1026"
+     inkscape:window-x="1701"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4261"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       originx="291.875px"
+       originy="-518.125px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4258">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(291.875,-128.125)">
+    <rect
+       style="fill:none;stroke:#55565a;stroke-width:3.75;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.75, 11.25;stroke-dashoffset:0"
+       id="rect4816"
+       width="450"
+       height="340"
+       x="-90"
+       y="130"
+       ry="15.219906" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#55565a;stroke-width:3.75;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4773"
+       width="470"
+       height="80"
+       x="-290"
+       y="180"
+       ry="10" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#56565a;fill-opacity:1;stroke:none;font-family:Mukti Narrow;-inkscape-font-specification:Mukti Narrow"
+       x="-280"
+       y="210"
+       id="text4775"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4777"
+         x="-280"
+         y="210"
+         style="font-weight:bold;fill:#56565a;fill-opacity:1">Browser Process (shared)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#55565a;fill-opacity:1;stroke:none;font-family:Mukti Narrow;-inkscape-font-specification:Mukti Narrow"
+       x="-31.581841"
+       y="388.92535"
+       id="text4783"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4785"
+         x="-31.581841"
+         y="388.92535">Extension Process</tspan></text>
+    <g
+       id="g5278">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4779"
+         y="340"
+         x="-20"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#55565a;fill-opacity:1;stroke:none;font-family:Mukti Narrow;-inkscape-font-specification:Mukti Narrow"
+         xml:space="preserve"><tspan
+           y="340"
+           x="-20"
+           id="tspan4781"
+           sodipodi:role="line">Render Process</tspan></text>
+      <rect
+         style="fill:none;stroke:#55565a;stroke-width:3.75;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4787"
+         width="180"
+         height="30"
+         x="-41.581841"
+         y="318.92535"
+         ry="10" />
+    </g>
+    <rect
+       style="fill:none;stroke:#55565a;stroke-width:3.75;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4789"
+       width="180"
+       height="30"
+       x="-40.542294"
+       y="366.74448"
+       ry="10" />
+    <rect
+       style="fill:none;stroke:#006091;stroke-width:3.75000000000000000;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4814"
+       width="220"
+       height="150"
+       x="-60"
+       y="300"
+       ry="15.219906" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#006091;fill-opacity:1;stroke:none;font-family:Mukti Narrow;-inkscape-font-specification:Mukti Narrow"
+       x="20"
+       y="440"
+       id="text4818"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4820"
+         x="20"
+         y="440"
+         style="fill:#006091;fill-opacity:1">WebApp label</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Mukti Narrow;-inkscape-font-specification:Mukti Narrow"
+       x="-140"
+       y="240"
+       id="text4822"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4824"
+         x="-140"
+         y="240"
+         style="fill:#56565a;fill-opacity:1">Crosswalk Browser Process Label</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4826"
+       y="160"
+       x="-80"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Mukti Narrow;-inkscape-font-specification:Mukti Narrow"
+       xml:space="preserve"><tspan
+         style="font-weight:bold;fill:#56565a;fill-opacity:1"
+         y="160"
+         x="-80"
+         id="tspan4828"
+         sodipodi:role="line">Crosswalk Application</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4913"
+       y="210"
+       x="200"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Mukti Narrow;-inkscape-font-specification:Mukti Narrow"
+       xml:space="preserve"><tspan
+         style="font-weight:bold;fill:#56565a;fill-opacity:1"
+         y="210"
+         x="200"
+         id="tspan4915"
+         sodipodi:role="line">Web </tspan><tspan
+         style="font-weight:bold;fill:#56565a;fill-opacity:1"
+         y="235"
+         x="200"
+         sodipodi:role="line"
+         id="tspan5097">Application </tspan><tspan
+         style="font-weight:bold;fill:#56565a;fill-opacity:1"
+         y="260"
+         x="200"
+         sodipodi:role="line"
+         id="tspan5099">Data</tspan></text>
+    <g
+       id="g3941"
+       transform="translate(-18.550385,-110.21344)">
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path3931"
+         d="m 208.55038,450.21344 0,-160 150,0 0,130 c -79.62234,28.6763 -93.90959,-19.96097 -150,30 z"
+         style="fill:none;stroke:#55565a;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Mukti Narrow;-inkscape-font-specification:Mukti Narrow"
+       x="180"
+       y="370"
+       id="text5083"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5085"
+         x="180"
+         y="370"
+         style="fill:#fd7137;fill-opacity:1">Crosswalk uses </tspan><tspan
+         sodipodi:role="line"
+         x="180"
+         y="395"
+         style="fill:#fd7137;fill-opacity:1"
+         id="tspan5093">security-manager</tspan><tspan
+         sodipodi:role="line"
+         x="180"
+         y="420"
+         id="tspan5089"
+         style="fill:#fd7137;fill-opacity:1">to set SMACK </tspan><tspan
+         sodipodi:role="line"
+         x="180"
+         y="445"
+         style="fill:#fd7137;fill-opacity:1"
+         id="tspan5095">labels for RP &amp; EP</tspan></text>
+    <g
+       id="g5272"
+       transform="translate(110,-160)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#55565a;stroke-width:3.75;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect5111"
+         width="140"
+         height="70"
+         x="-360"
+         y="510"
+         ry="10" />
+      <text
+         xml:space="preserve"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#56565a;fill-opacity:1;stroke:none;font-family:Mukti Narrow;-inkscape-font-specification:Mukti Narrow"
+         x="-340"
+         y="540"
+         id="text5105"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5107"
+           x="-340"
+           y="540"
+           style="font-weight:bold;fill:#56565a;fill-opacity:1">Crosswalk</tspan><tspan
+           id="tspan5109"
+           sodipodi:role="line"
+           x="-340"
+           y="565"
+           style="font-weight:bold;fill:#56565a;fill-opacity:1">Launcher</tspan></text>
+    </g>
+    <path
+       d="m 14.188964,296.44668 -0.04603,-5.34981 c -38.014035,-7.76699 -75.292468,-6.81454 -113.306503,9.38629 l 0,-15 c 40.057105,-11.34458 75.951217,-13.20644 113.174929,-9.67571 L 13.96506,270.42764 40,283.23409 z"
+       style="color:#000000;fill:#006091;fill-opacity:1;stroke:#006091;stroke-width:2.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:nodetypes="cccccccc"
+       id="path5304"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 63.559281,291.4902 -5.35,0 -0.622011,-31.16679 -15,0 0.33201,31.16679 -5.379999,0 13.029999,25.92377 z"
+       style="color:#000000;fill:#55565a;fill-opacity:1;stroke:none"
+       sodipodi:nodetypes="cccccccc"
+       id="path5134"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5296"
+       sodipodi:nodetypes="cccccccc"
+       style="color:#000000;fill:#55565a;fill-opacity:1;stroke:none"
+       d="m 162.90169,324.9025 -3.37181,-4.15372 53.42445,-44.30394 -9.45367,-11.64595 -53.60722,44.07879 -3.39071,-4.17702 -11.91504,26.45477 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5300"
+       sodipodi:nodetypes="cccccccc"
+       style="color:#000000;fill:#55565a;fill-opacity:1;stroke:none"
+       d="m -68.300804,370.19463 0,5.35 L -110,375 l 0,15 41.699196,0.83463 0,5.38 25.92377,-13.03 z"
+       inkscape:transform-center-x="5.8781415"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       d="m -99.915779,345.73611 -4.709851,2.53768 C -111.81719,345.35042 -117.0857,344.16771 -125,330 l -15,0 c 6.65679,17.19066 19.94687,20.50925 21.91387,25.52633 l -4.73625,2.55191 23.767385,16.64133 z"
+       style="color:#000000;fill:#006091;fill-opacity:1;stroke:#006091;stroke-width:2.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:nodetypes="cccccccc"
+       id="path5302"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g5285"
+       transform="translate(10,20)">
+      <rect
+         ry="10"
+         y="260"
+         x="-300"
+         height="50"
+         width="189.99998"
+         id="rect4917"
+         style="fill:#ffffff;fill-opacity:1;stroke:#55565a;stroke-width:3.75;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4919"
+         y="290"
+         x="-290"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Mukti Narrow;-inkscape-font-specification:Mukti Narrow"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;fill:#56565a;fill-opacity:1"
+           y="290"
+           x="-290"
+           id="tspan4921"
+           sodipodi:role="line">Security Manager</tspan></text>
+    </g>
+  </g>
+</svg>
